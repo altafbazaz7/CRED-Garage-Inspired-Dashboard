@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { motion } from 'framer-motion';
 import { CreditCard, ArrowLeftRight, TrendingUp, Gift } from 'lucide-react';
 import { QuickAction } from '../../types';

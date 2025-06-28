@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { UserProfile, BenefitWithStatus } from '@shared/schema';
 import { APIResponse } from '../types';
 

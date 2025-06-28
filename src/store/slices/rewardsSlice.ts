@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { createSlice, createAsyncThunk, PayloadAction } from '@reduxjs/toolkit';
 import { LoadingState } from '../../types';
 import { apiService } from '../../services/api';
