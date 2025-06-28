@@ -16,3 +16,8 @@
 - **Framer Motion** for smooth animations
 - **Wouter** for lightweight client-side routing
 - **Radix UI** primitives for accessible components
+
+## Setup Instructions
+
+- Clone the repo, and run npm install
+- Type in npm run dev and thats it :)
