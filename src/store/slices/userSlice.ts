@@ -25,7 +25,6 @@ const initialState: UserState = {
   error: null,
 };
 
-// Async thunks
 export const fetchUserProfile = createAsyncThunk(
   'user/fetchProfile',
   async (_, { rejectWithValue }) => {
